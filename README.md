@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Atharv Sathe
 #### I am a Developer!
-![I am a Developer!](https://media.licdn.com/dms/image/D4D16AQFAdmK2RAtYoQ/profile-displaybackgroundimage-shrink_350_1400/0/1693661017050?e=1709769600&v=beta&t=IR5ajbPRSz1tqksUGRiAw6oysTIzV4iL2v82fMi3bCk)
+![I am a Developer!]([https://media.licdn.com/dms/image/D4D16AQFAdmK2RAtYoQ/profile-displaybackgroundimage-shrink_350_1400/0/1693661017050?e=1709769600&v=beta&t=IR5ajbPRSz1tqksUGRiAw6oysTIzV4iL2v82fMi3bCk](https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/LinkedIn%20Banner.png))
 
 Welcome to my GitHub Profile. I hope you find it interesting. Check out my currently ongoing project "Sync" an easy, fast, and efficient ticket generation, distribution, and validation platform that I am building to ease the process of event management and ticket/pass handling at my college.
 
