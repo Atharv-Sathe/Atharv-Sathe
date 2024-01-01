@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi, This is Atharv Sathe👋
 
 <!--
-**Atharv-Sathe/Atharv-Sathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my GitHub Profile. I hope you find it interesting. Check out my currently ongoing project "Sync" an easy, fast, and efficient ticket generation, distribution, and validation platform that I am building to ease the process of event management and ticket/pass handling at my college. 
