@@ -1,14 +1,14 @@
 ![I am a Developer!](https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/LinkedIn%20Banner.png)
 
 # Atharv Sathe
-Welcome to my GitHub Profile. I hope you find it interesting. Check out my currently ongoing project "Sync" an easy, fast, and efficient ticket generation, distribution, and validation platform that I am building to ease the process of event management and ticket/pass handling at my college.
+Welcome to my GitHub Profile. I hope you find it interesting. I regularly make small web projects like responsive profile cards, forms, etc in the repository SmallWebProjects. You can explore it, I hope it helps you in your projects.
 
 ### Skills: 
 * <img src='https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/html.png' alt='HTML' height='40'> HTML
 * <img src='https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/css.png' alt='CSS' height='40'> CSS
 
 ### Info:
-- 🔭 I’m currently working on Sync  
+- 🔭 I’m currently working on making SamllWebProjects.
 - 🌱 I’m currently learning Python, JS, C/C++ 
 - 📫 How to reach me: atharvsathe28704@gmail.com 
 - 😄 Pronouns: He/Him 
