@@ -6,6 +6,11 @@ Welcome to my GitHub Profile. I hope you find it interesting. I regularly make s
 ### Skills: 
 * <img src='https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/html.png' alt='HTML' height='40'> HTML
 * <img src='https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/css.png' alt='CSS' height='40'> CSS
+* BootStrap
+* JavaScript
+* C/C++
+* Python
+* Powershell
 
 ### Info:
 - 🔭 I’m currently working on making SamllWebProjects.
