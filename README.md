@@ -1,7 +1,8 @@
 ![I am a Developer!](https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/LinkedIn%20Banner.png)
 
-#  Hi 👋, This is Atharv Sathe! 
-I am a passionate developer, who likes to build stuff. I develop web applications and am currently pursuing my interest in machine learning.  
+<h1 align="center"> Hi 👋, This is Atharv Sathe!</h1>
+<h3 align="center">I am a passionate developer, who likes to build stuff. I develop web applications and am currently pursuing my interest in machine learning. </h3>
+ 
 
 ## Skills: 
 ### Web-Development
@@ -11,12 +12,12 @@ I am a passionate developer, who likes to build stuff. I develop web application
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
+[![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)](https://www.cprogramming.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### Shell-Scripting
-![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell)
+[![PowerShell](https://img.shields.io/badge/PowerShell-grey?style=for-the-badge&logo=powershell)](https://learn.microsoft.com/en-us/powershell/)
 
 ---
 
@@ -26,6 +27,7 @@ I am a passionate developer, who likes to build stuff. I develop web application
 ## Contact:
 You can contact (email) me at: `atharvsathe28704@gmail.com`
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=atharv-sathe&theme=dark) 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Sathe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=Atharv-Sathe&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Sathe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut) |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharv-Sathe&label=Profile%20views&color=0e75b6&style=flat" alt="desujoy" /> </p>
