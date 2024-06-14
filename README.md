@@ -10,6 +10,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 
 ### Languages
 [![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)](https://www.cprogramming.com/)
