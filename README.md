@@ -1,7 +1,7 @@
 ![I am a Developer!](https://github.com/Atharv-Sathe/Atharv-Sathe/blob/main/LinkedIn%20Banner.png)
 
 <h1 align="center"> Hi 👋, This is Atharv Sathe!</h1>
-<h3 align="center">I am a passionate developer, who likes to build stuff. I develop web applications and am currently pursuing my interest in machine learning. </h3>
+<h3 align="center">I am a passionate developer, who likes to build stuff.</h3>
  
 
 ## Skills: 
