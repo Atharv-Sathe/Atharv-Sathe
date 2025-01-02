@@ -26,6 +26,11 @@
 ## Socials:
 [<img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' alt='github' height='40'>](https://github.com/Atharv-Sathe)  [<img src='https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/satheatharv)  [<img src='https://cdn.pixabay.com/photo/2016/09/17/07/03/instagram-1675670_1280.png' alt='instagram' height='40'>](https://www.instagram.com/atharvsathe7)  [<img src='https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg' alt='twitter' height='40'>](https://twitter.com/@ATHARVSATHE7) 
 
+## Badges
+<a href="https://api.badgr.io/public/assertions/2TKG_OSOSk6yoKmW01G1_w">
+<img height="150px" width="150px" src="https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F26fp2261340y1ukokimvca8su%2Fpublic%2F1654640141%2FAPI+Fundamentals+%281%29.1654640141264.png" />
+</a>
+
 ## Contact:
 You can contact (email) me at: `atharvsathe28704@gmail.com`
 
