@@ -1,6 +1,10 @@
-<div align="center">
+<div style="overflow:hidden; border-radius: 20px 20px 0px 0px;">
+    <img src="./banner2.jpg" alt="Banner" style="width:100%; height:auto; object-fit:cover; display:block;" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   
-# 👋 Hey there! I'm Atharv Sathe
+# This is AthSat!
 
 ### 💻 Full-Stack Developer | 🎯 Problem Solver | 🚀 Tech Enthusiast
 
@@ -14,26 +18,27 @@
 
 </div>
 
-
 ## 🎯 About Me
 
 ```typescript
 const atharv = {
-    location: "India 🇮🇳",
-    currentProject: "ZeroSum",
-    learning: ["AWS", "Data Science", "DevOps"],
-    interests: ["Software Development", "DevOps", "Data Science"],
-    funFact: "I like cats! 🐱",
-    motto: "Code. Build. Deploy. Repeat."
+  location: "India 🇮🇳",
+  currentProject: "ZeroSum",
+  learning: ["AWS", "Data Science", "DevOps"],
+  interests: ["Software Development", "DevOps", "Data Science"],
+  funFact: "I like cats! 🐱",
+  motto: "Code. Build. Deploy. Repeat.",
 };
 ```
 
 <div align="center">
 
 ### 🔭 Currently Working On
+
 **[ZeroSum](https://zerosum.athsat.tech)** - Minimalist Modern Budget Tracker!
 
 ### 💬 Ask Me About
+
 JavaScript • TypeScript • React • Next.js • Node.js • Data Structures & Algorithms
 
 </div>
@@ -43,6 +48,7 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
 <div align="center">
 
 ### 🌐 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,6 +58,7 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -60,14 +67,18 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 💻 Languages
+
 <!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) -->
 
 ### ☁️ DevOps & Tools
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,12 +103,11 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
 </a>
 
 ### 🎯 Competitive Programming
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-atharvsathe28704-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/atharvsathe28704)
 [![Codeforces](https://img.shields.io/badge/Codeforces-athsat-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/athsat)
 
 </div>
-
-
 
 ## 📊 GitHub Analytics
 
@@ -114,7 +124,6 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-sathe&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -126,19 +135,31 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
 
 </div>
 
+<!-- <div align="center">
 
-<div align="center">
-  
+<table>
+<tr>
+<td width="50%">
+
 ### 💭 Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</td>
+<td width="50%">
+
 ### 😄 Here's a joke to make your day better!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
----
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<!-- ---
 
-**💙 Thanks for visiting! Feel free to reach out if you want to collaborate on something awesome!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> -->
 
+<div style="overflow:hidden; border-radius: 0 0 20px 20px;">
+    <img src="./footer3.jpg" alt="Footer Banner" style="width:100%; height:auto; object-fit:cover; display:block;" />
 </div>
