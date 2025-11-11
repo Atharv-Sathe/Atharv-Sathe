@@ -102,13 +102,13 @@ JavaScript • TypeScript • React • Next.js • Node.js • Data Structures 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharv-sathe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharv-sathe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-sathe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-sathe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-sathe&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
